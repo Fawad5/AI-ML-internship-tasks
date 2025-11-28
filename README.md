@@ -29,6 +29,28 @@
   - ***R2 score is `0.95` which is good, MSE is `4.95` and RMSE is `2.22`***
 
 
+## ***Task 3***
+- ***Objective : Heart Disease Prediction***\
+- ***Dataset : UCI Heart Disease Data from Kaggle***\
+- ***Model : LogisticRegression()***
+### - ***Results :***
+  - ***It has `920` rows and `16` coluumns***
+  - ***So many Null values***
+  - ***It also have outliers***
+  - ***It also has a weired thing in trestbps column that it shows the blood pressureis 0 which is not true***
+  - ***We also get an Accuracy Score is `0.53` which is not good***
+
+## ***Task 4***
+- ***Objective : House Price Prediction**\
+- ***Dataset : house-prices-advanced-regression-techniques from Kaggle***\
+- ***Model : Gradient Boosting***
+### - ***Results :***
+  - ***It has `1460` rows and `81` coluumns***
+  - ***So many Null values***
+  - ***Impute missing values using KNN Immputer and Simple Inputer***
+  - ***We get a R2 score of `0.91`***
+
+
 
 
 
