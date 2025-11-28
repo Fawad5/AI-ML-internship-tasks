@@ -1,7 +1,7 @@
 # ***AI-ML-internship-tasks***
 
 ## ***Task 1***
-***Objective : Exploring and Visualizing a Simple Dataset***\
-***Dataset : Use Iris dataset from seaborn***
-***Model : No Mpdel is used (Just explore and visualize the dataset)***
-***Results : - It has `150` rows and `5` coluumns***
+- ***Objective : Exploring and Visualizing a Simple Dataset***\
+- ***Dataset : Use Iris dataset from seaborn***
+- ***Model : No Model is used (Just explore and visualize the dataset)***
+- ***Results : It has `150` rows and `5` coluumns***
