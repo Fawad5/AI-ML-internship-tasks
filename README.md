@@ -15,4 +15,5 @@
 - ***The relationship between `petal length` and `petal width`, with different colors again representing the three `species` of iris flowers.***
 - ***`Setosa` (Blue dots): This species is very clearly separated from the other two. They exhibit the smallest `petal length` and `petal width`, forming a tight, distinct cluster at the bottom-left of the plot.***
 - ***`Versicolor` (Orange dots): This species generally falls in the middle range for both `petal length` and `petal width`. Its cluster is located between Setosa and Virginica, showing some overlap with Virginica but still largely distinct from Setosa.***
-- ***`Virginica` (Green dots): This species typically has the largest `petal length` and `petal width`, clustering towards the upper-right part of the plot. There's some overlap with Versicolor, but Virginica generally occupies the region of longer and wider petals.******
+- ***`Virginica` (Green dots): This species typically has the largest `petal length` and `petal width`, clustering towards the upper-right part of the plot. There's some overlap with Versicolor, but Virginica generally occupies the region of longer and wider petals.***
+  
