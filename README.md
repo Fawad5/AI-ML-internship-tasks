@@ -1,8 +1,8 @@
-# ***AI-ML-internship-tasks***
+# ***AI-ML-Internship-Tasks***
 
 ## ***Task 1***
-- ***Objective : Exploring and Visualizing a Simple Dataset***\
-- ***Dataset : Use Iris dataset from seaborn***\
+- ***Objective : Exploring and Visualizing a Simple Dataset***
+- ***Dataset : Use Iris dataset from seaborn***
 - ***Model : No Model is used (Just explore and visualize the dataset)***
 ### - ***Results :***
 - ***It has `150` rows and `5` coluumns***
@@ -19,8 +19,8 @@
 
 
 ## ***Task 2***
-- ***Objective : Predict Future Stock Prices (Short-Term)***\
-- ***Dataset : Stock market data from Yahoo Finance***\
+- ***Objective : Predict Future Stock Prices (Short-Term)***
+- ***Dataset : Stock market data from Yahoo Finance***
 - ***Model : LinearRegression()***
 ### - ***Results :***
   - ***It has `1006` rows and `5` coluumns***
@@ -30,8 +30,8 @@
 
 
 ## ***Task 3***
-- ***Objective : Heart Disease Prediction***\
-- ***Dataset : UCI Heart Disease Data from Kaggle***\
+- ***Objective : Heart Disease Prediction***
+- ***Dataset : UCI Heart Disease Data from Kaggle***
 - ***Model : LogisticRegression()***
 ### - ***Results :***
   - ***It has `920` rows and `16` coluumns***
@@ -41,8 +41,8 @@
   - ***We also get an Accuracy Score is `0.53` which is not good***
 
 ## ***Task 4***
-- ***Objective : House Price Prediction**\
-- ***Dataset : house-prices-advanced-regression-techniques from Kaggle***\
+- ***Objective : House Price Prediction***
+- ***Dataset : house-prices-advanced-regression-techniques from Kaggle***
 - ***Model : Gradient Boosting***
 ### - ***Results :***
   - ***It has `1460` rows and `81` coluumns***
