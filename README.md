@@ -2,7 +2,7 @@
 
 ## ***Task 1***
 - ***Objective : Exploring and Visualizing a Simple Dataset***\
-- ***Dataset : Use Iris dataset from seaborn***
+- ***Dataset : Use Iris dataset from seaborn***\
 - ***Model : No Model is used (Just explore and visualize the dataset)***
 ### - ***Results :***
 - ***It has `150` rows and `5` coluumns***
@@ -16,4 +16,20 @@
 - ***`Setosa` (Blue dots): This species is very clearly separated from the other two. They exhibit the smallest `petal length` and `petal width`, forming a tight, distinct cluster at the bottom-left of the plot.***
 - ***`Versicolor` (Orange dots): This species generally falls in the middle range for both `petal length` and `petal width`. Its cluster is located between Setosa and Virginica, showing some overlap with Virginica but still largely distinct from Setosa.***
 - ***`Virginica` (Green dots): This species typically has the largest `petal length` and `petal width`, clustering towards the upper-right part of the plot. There's some overlap with Versicolor, but Virginica generally occupies the region of longer and wider petals.***
+
+
+## ***Task 2***
+- ***Objective : Predict Future Stock Prices (Short-Term)***\
+- ***Dataset : Stock market data from Yahoo Finance***\
+- ***Model : LinearRegression()***
+### - ***Results :***
+  - ***It has `1006` rows and `5` coluumns***
+  - ***No Null values***
+  - ***After Feature Enginering, we have 1005 rows and 6 columns***
+  - ***R2 score is `0.95` which is good, MSE is `4.95` and RMSE is `2.22`***
+
+
+
+
+
   
